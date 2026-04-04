@@ -1,0 +1,333 @@
+{
+  "nav": {
+    "about": "About",
+    "about_ceo": "CEO Message",
+    "about_org": "Organization",
+    "about_history": "History",
+    "about_business": "Business",
+    "about_people": "Talent",
+    "about_location": "Location",
+    "mro": "MRO",
+    "mro_intro": "What is MRO?",
+    "mro_agent": "Procurement",
+    "products": "Products",
+    "sourcing": "Sourcing",
+    "sourcing_strategy": "Strategy",
+    "sourcing_network": "Network",
+    "sourcing_delivery": "Delivery",
+    "sourcing_service": "Service",
+    "nso": "NSO",
+    "community": "Community",
+    "catalog": "Catalog"
+  },
+  "footer": {
+    "copyright": "© 2024 Ducksung Techpack Co., Ltd. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "tag": "MRO Specialist",
+      "title": "Your Trusted Industrial Partner",
+      "subtitle": "Ducksung Techpack provides MRO procurement outsourcing and comprehensive supply chain solutions.",
+      "cta_primary": "Our Services",
+      "cta_secondary": "Contact Us"
+    },
+    "stats": {
+      "experience": "Years",
+      "experience_unit": "yrs",
+      "clients": "Clients",
+      "clients_unit": "+",
+      "products": "Products",
+      "products_unit": "K+",
+      "partners": "Partners",
+      "partners_unit": "+"
+    },
+    "services": {
+      "title": "Key Services",
+      "mro": { "title": "MRO Procurement", "desc": "Reduce costs and time with integrated MRO material procurement outsourcing." },
+      "sourcing": { "title": "Sourcing Service", "desc": "We identify optimal domestic and overseas suppliers to build a stable supply chain." },
+      "catalog": { "title": "Integrated Catalog", "desc": "Browse and order MRO materials across all industries in one place." },
+      "nso": { "title": "NSO Service", "desc": "We deliver all initial supplies needed for new business site openings." }
+    },
+    "cta": {
+      "title": "Get in Touch Today",
+      "subtitle": "Our experts will propose the optimal MRO solution for your needs.",
+      "button": "Contact Us"
+    },
+    "nso_banner": {
+      "tag": "New",
+      "title": "NSO Expansion — Medical Institution Delivery Service Launched",
+      "desc": "Ducksung Techpack expands beyond MRO to become a dedicated delivery partner for medical institutions.",
+      "button": "Learn About NSO"
+    }
+  },
+  "about": {
+    "ceo": {
+      "title": "CEO Message",
+      "subtitle": "A message from the CEO of Ducksung Techpack",
+      "name": "CEO Hong Gil-dong",
+      "greeting": "Greetings,\nI am the CEO of Ducksung Techpack Co., Ltd.\n\nSince our founding in 1996, we have been a leading MRO specialist, delivering all the materials your production sites need quickly and accurately.\n\nWe will continue to upgrade our digital procurement system and expand our domestic and overseas supply networks so that our customers can focus on their core business.\n\nWe sincerely appreciate your continued support.",
+      "signature": "CEO, Ducksung Techpack Co., Ltd."
+    },
+    "org": {
+      "title": "Organization",
+      "subtitle": "Introducing the organizational structure of Ducksung Techpack.",
+      "ceo": "CEO",
+      "divisions": {
+        "management": "Management Support",
+        "sales": "Sales",
+        "sourcing": "Sourcing",
+        "logistics": "Logistics",
+        "it": "IT Development"
+      },
+      "policy_title": "Management Policy",
+      "policy_subtitle": "The core management values that Ducksung Techpack pursues.",
+      "policies": {
+        "customer": {
+          "title": "Customer-First Service",
+          "desc": "A company that provides quality and service beyond customer expectations."
+        },
+        "ethics": {
+          "title": "Responsible Management & Ethics",
+          "desc": "A corporate culture that upholds ethical standards based on honesty and transparency."
+        },
+        "growth": {
+          "title": "Sustainable Growth & Innovation",
+          "desc": "A company that flexibly adapts to a changing market and continues to develop."
+        }
+      }
+    },
+    "history": {
+      "title": "History",
+      "subtitle": "A look at the milestones of Ducksung Techpack."
+    },
+    "business": {
+      "title": "Business Areas",
+      "subtitle": "Core business areas provided by Ducksung Techpack.",
+      "items": {
+        "mro": {
+          "title": "MRO Procurement",
+          "desc": "Integrated procurement agency for factory and office consumables. Maximize efficiency by consolidating purchase channels."
+        },
+        "sourcing": {
+          "title": "Sourcing Service",
+          "desc": "Full support from discovering optimal domestic and overseas suppliers to price negotiation and quality management."
+        },
+        "catalog": {
+          "title": "Web Catalog",
+          "desc": "An integrated platform where hundreds of thousands of MRO items can be browsed and ordered online instantly."
+        },
+        "nso": {
+          "title": "NSO (New Site Opening)",
+          "desc": "We deliver all fixtures, supplies, and consumables needed for opening new stores or factories."
+        }
+      }
+    },
+    "people": {
+      "title": "Talent",
+      "subtitle": "The qualities we look for in our people at Ducksung Techpack.",
+      "values": {
+        "creative": { "title": "Creative", "desc": "People who constantly explore new ideas and actively respond to change." },
+        "professional": { "title": "Professional", "desc": "People with deep expertise in their field who continuously develop their capabilities." },
+        "cooperative": { "title": "Cooperative", "desc": "People who communicate with teammates and collaborate toward common goals." },
+        "honest": { "title": "Honest", "desc": "People who build trust through transparent and ethical conduct." }
+      }
+    },
+    "location": {
+      "title": "Location",
+      "subtitle": "How to find Ducksung Techpack headquarters",
+      "address_label": "Address",
+      "address": "59 Seokam-ro 3-gil, Iksan-si, Jeollabuk-do",
+      "tel_label": "Tel",
+      "tel": "063-834-6384~5",
+      "fax_label": "Fax",
+      "fax": "063-834-6386",
+      "email_label": "Email",
+      "email": "ducksung99@naver.com",
+      "hours_label": "Hours",
+      "hours": "Weekdays 09:00–18:00 (Lunch 12:00–13:00)",
+      "directions": {
+        "car": "By Car",
+        "car_desc": "About 10 minutes from Iksan IC on the Honam Expressway",
+        "bus": "By Bus",
+        "bus_desc": "Take bus No. 52 from Iksan Station and get off at Seokam-dong"
+      }
+    }
+  },
+  "mro": {
+    "title": "What is MRO?",
+    "subtitle": "Maintenance, Repair & Operations — consumable materials not directly used in production",
+    "definition": "MRO (Maintenance, Repair & Operations) refers to consumable materials and services used indirectly in a company's production and operations. Unlike direct materials (raw materials), MRO items are purchased frequently and in diverse categories, making integrated management challenging.",
+    "benefits": {
+      "title": "Benefits of MRO Procurement",
+      "cost": { "title": "Cost Reduction", "desc": "Lower unit prices through bulk purchase negotiation and reduced management costs." },
+      "time": { "title": "Time Savings", "desc": "Consolidating to a single purchase channel dramatically reduces time spent on procurement." },
+      "quality": { "title": "Quality Assurance", "desc": "Materials of stable quality are supplied through verified supply chains." },
+      "system": { "title": "System Purchasing", "desc": "Online ordering systems enable history management and budget control." }
+    },
+    "categories": {
+      "title": "MRO Material Categories",
+      "items": ["Tools & Measuring Instruments", "Electrical & Electronic", "Safety & Protection", "Office Supplies", "Cleaning & Hygiene", "Packaging", "Bearings & Power Transmission", "Pipes & Hydraulics"]
+    },
+    "agent": {
+      "title": "MRO Procurement Agency",
+      "subtitle": "Leave your complex MRO purchasing to Ducksung Techpack.",
+      "process": {
+        "title": "Procurement Process",
+        "steps": ["Demand Analysis", "Supplier Selection", "Price Negotiation", "Order & Delivery", "Settlement & Reporting"]
+      },
+      "features": {
+        "title": "Service Features",
+        "single": { "title": "Single Channel", "desc": "Order and manage all MRO materials through a single channel." },
+        "saving": { "title": "Cost Savings", "desc": "Consolidation achieves an average 15–30% cost reduction." },
+        "delivery": { "title": "Fast Delivery", "desc": "Next-day delivery via our nationwide logistics network." },
+        "report": { "title": "Transparent Reporting", "desc": "Monthly purchase status reports are provided." }
+      }
+    }
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "We handle MRO materials across all industries.",
+    "categories": {
+      "all": "All",
+      "tools": "Tools & Measuring",
+      "electrical": "Electrical & Electronic",
+      "safety": "Safety & Protection",
+      "office": "Office Supplies",
+      "cleaning": "Cleaning & Hygiene",
+      "packaging": "Packaging",
+      "bearing": "Bearings & Transmission",
+      "pipe": "Pipes & Hydraulics"
+    }
+  },
+  "sourcing": {
+    "strategy": {
+      "title": "Sourcing Strategy",
+      "subtitle": "Introducing Ducksung Techpack's systematic sourcing strategy.",
+      "steps": {
+        "analyze": { "title": "Demand Analysis", "desc": "Precisely analyze customer purchasing patterns and consumption." },
+        "find": { "title": "Supplier Discovery", "desc": "Identify optimal domestic and overseas suppliers and conduct competitive bidding." },
+        "evaluate": { "title": "Quality Evaluation", "desc": "Comprehensive quality, delivery, and price evaluation of suppliers." },
+        "contract": { "title": "Contract", "desc": "Conclude supply contracts under optimal conditions." },
+        "manage": { "title": "Supply Chain Management", "desc": "Maintain a stable supply chain with continuous monitoring." }
+      }
+    },
+    "network": {
+      "title": "Sourcing Network",
+      "subtitle": "We have an extensive domestic and global supply network.",
+      "domestic": { "title": "Domestic Network", "desc": "We collaborate with over 300 verified domestic suppliers nationwide." },
+      "global": { "title": "Global Network", "desc": "We trade directly with top manufacturers in China, Japan, Germany and more." },
+      "partners_label": "Partner Companies",
+      "countries_label": "Trading Countries"
+    },
+    "delivery": {
+      "title": "Delivery Management",
+      "subtitle": "We operate a fast and accurate delivery management system.",
+      "features": {
+        "tracking": { "title": "Real-time Tracking", "desc": "Track order status in real time from order to delivery." },
+        "quality": { "title": "Quality Inspection", "desc": "Thorough quality inspection is carried out at the receiving stage." },
+        "delivery": { "title": "Next-day Delivery", "desc": "Next-day delivery is supported for the Seoul metro area and major industrial complexes." },
+        "return": { "title": "Return Processing", "desc": "Rapid exchange and return processing when defects occur." }
+      }
+    },
+    "service": {
+      "title": "Sourcing Service",
+      "subtitle": "We provide customized sourcing services.",
+      "types": {
+        "standard": { "title": "Standard", "desc": "Basic procurement agency service for standard MRO items." },
+        "premium": { "title": "Premium", "desc": "Dedicated buyer assignment and customized sourcing consulting included." },
+        "enterprise": { "title": "Enterprise", "desc": "Integrated MRO outsourcing service for large corporations and public institutions." }
+      }
+    }
+  },
+  "contact": {
+    "inquiry": {
+      "title": "Contact Us",
+      "subtitle": "Leave us a message and we will get back to you promptly.",
+      "name": "Name",
+      "name_placeholder": "John Doe",
+      "company": "Company",
+      "company_placeholder": "Company Inc.",
+      "email": "Email",
+      "email_placeholder": "example@company.com",
+      "phone": "Phone",
+      "phone_placeholder": "010-0000-0000",
+      "category": "Inquiry Type",
+      "categories": {
+        "mro": "MRO Procurement",
+        "sourcing": "Sourcing Service",
+        "nso": "NSO Service",
+        "other": "Other"
+      },
+      "message": "Message",
+      "message_placeholder": "Please describe your inquiry in detail.",
+      "submit": "Send Inquiry",
+      "success": "Your inquiry has been received. Our team will contact you shortly.",
+      "error": "An error occurred. Please try again later."
+    },
+    "notice": {
+      "title": "Notice",
+      "subtitle": "Latest news from Ducksung Techpack.",
+      "empty": "No notices registered.",
+      "date": "Date",
+      "view_all": "View All"
+    }
+  },
+  "nso": {
+    "hero": {
+      "tag": "NSO — Medical Specialist",
+      "title": "Dedicated Supply for Hospitals & Medical Institutions",
+      "subtitle": "Stable delivery services tailored to the demands of medical environments, backed by 26 years of MRO experience.",
+      "cta": "Inquire About Delivery"
+    },
+    "about": {
+      "title": "What is NSO?",
+      "subtitle": "Non-Stock Order — rapid procurement on demand, without inventory burden",
+      "desc": "NSO (Non-Stock Order) is a method of stably supplying consumable materials needed by hospitals and medical institutions on demand, without inventory burden. Ducksung Techpack understands the unique needs of medical environments and supports both urgent and scheduled deliveries.",
+      "compare": {
+        "title": "MRO vs NSO",
+        "mro_title": "MRO (General Industry)",
+        "mro_points": ["For manufacturing, logistics & office", "Bulk regular purchasing", "Standard spec materials", "Cost reduction focus"],
+        "nso_title": "NSO (Medical Institutions)",
+        "nso_points": ["For hospitals, nursing homes & clinics", "Small quantity & urgent delivery", "Certified medical materials", "Quality & hygiene standards"]
+      }
+    },
+    "items": {
+      "title": "Supply Items",
+      "subtitle": "We supply all consumables needed in medical environments.",
+      "categories": [
+        { "icon": "🩺", "title": "Medical Consumables", "desc": "Gloves, masks, syringes, gauze, bandages and more" },
+        { "icon": "🧴", "title": "Hygiene & Sanitation", "desc": "Hand sanitizers, disinfectants, hygiene wipes, sanitary bags" },
+        { "icon": "📦", "title": "Packaging", "desc": "Sterile packaging, medical waste bags, specimen containers" },
+        { "icon": "🖊️", "title": "Office & Admin", "desc": "Prescription paper, labels, envelopes, print paper" },
+        { "icon": "🛏️", "title": "Ward Supplies", "desc": "Pillowcases, sheets, patient gowns, towels and linen" },
+        { "icon": "⚙️", "title": "Facility Supplies", "desc": "Lighting, cleaning supplies, plumbing consumables" }
+      ]
+    },
+    "process": {
+      "title": "Delivery Process",
+      "steps": [
+        { "label": "Inquiry", "desc": "Phone or online inquiry" },
+        { "label": "Quote", "desc": "Customized quote per item" },
+        { "label": "Contract", "desc": "Supply contract signed" },
+        { "label": "Delivery", "desc": "On-time delivery as scheduled" },
+        { "label": "Support", "desc": "Regular check-up & reorder" }
+      ]
+    },
+    "quick_form": {
+      "title": "Quick Inquiry",
+      "subtitle": "Leave your info and our team will contact you shortly.",
+      "institution": "Institution",
+      "name": "Contact Name",
+      "phone": "Phone",
+      "submit": "Submit",
+      "success": "Your inquiry has been received. We will contact you soon.",
+      "error": "An error occurred. Please try again."
+    },
+    "banner": {
+      "tag": "New",
+      "title": "NSO Expansion — Medical Institution Delivery Service Launched",
+      "desc": "Ducksung Techpack expands beyond MRO to become a dedicated delivery partner for medical institutions.",
+      "button": "Learn About NSO"
+    }
+  }
+}
